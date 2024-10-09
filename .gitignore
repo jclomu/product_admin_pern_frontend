@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build files
+build/
